@@ -18,8 +18,8 @@ body {
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #dd0b0b;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #FFFFFF;
+    background-color: #1909f3;  /* âmbar escuro — texto branco tem contraste AA */
+    color: #0f0000;
     text-align: center;
     padding: 24px 16px;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: #062af5;
+    color: #00030f;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -52,10 +52,10 @@ main {
 }166698
 
 blockquote {
-    border-left: 4px solid #A0521A;
+    border-left: 4px solid #fdfcfc;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #FDEEDC;
+    background-color: #130a00;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
